@@ -5,7 +5,9 @@
 ## Overview
 
 This notebook contains code to build a language model which hels us answer interesting questions like:
+
 france -> french :: spain -> ?
+
 china -> beijing :: india -> ?
 
 After building the model we also de-bias it to remove unnecessary gender bias which the model had learned
